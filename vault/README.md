@@ -8,10 +8,10 @@ Automatic URL Linking: https://github.com/tofrankie/obsidian-theme-gfm
 - [ ] Update the website
 - [ ] Contact the media
 
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
+| Syntax | Description |
+| --- | --- |
+| Header | Title |
+| Paragraph | Text |
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
