@@ -1,5 +1,21 @@
 # Change log
 
+## 1.1.0
+
+> 2026-08-26
+
+### Breaking
+
+- Required Obsidian v1.13.0+
+
+### Fixes
+
+- Update Canvas-related color values ([#2](https://github.com/tofrankie/obsidian-theme-gfm/pull/2))
+
+### Contributors ❤️
+
+- Emile Bangma ([@saberzero1](https://github.com/saberzero1))
+
 ## 1.0.15
 
 > 2026-08-02
