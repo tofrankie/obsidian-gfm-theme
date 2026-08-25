@@ -1,7 +1,7 @@
 {
   "name": "GitHub Flavored Markdown",
   "version": "1.0.15",
-  "minAppVersion": "1.0.0",
+  "minAppVersion": "1.13.0",
   "author": "Frankie",
   "authorUrl": "https://github.com/tofrankie",
   "fundingUrl": {
